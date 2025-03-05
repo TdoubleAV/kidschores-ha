@@ -4,45 +4,45 @@
     "step": {
       "intro": {
         "title": "Wilkommen bei KidsChores",
-        "description": "This wizard will guide you through setting up KidsChores."
+        "description": "Dieser Assistent führt Sie durch die Einrichtung von KidsChores."
       },
       "points_label": {
-        "title": "Points Label",
-        "description": "Choose a label and icon for points.",
+        "title": "Punkte Bezeichnung",
+        "description": "Wählen Sie eine Bezeichnung und ein Symbol für die Punkte.",
         "data": {
-          "points_label": "Points Label",
-          "points_icon": "Points Icon"
+          "points_label": "Punkte Bezeichnung",
+          "points_icon": "Punkte Symbol"
         }
       },
       "kid_count": {
-        "title": "Number of Kids",
-        "description": "How many kids do you want to manage?",
+        "title": "Anzahl Kinder",
+        "description": "Wie viele Kinder möchten Sie verwalten?",
         "data": {
-          "kid_count": "Number of Kids"
+          "kid_count": "Anzahl Kinder"
         }
       },
       "kids": {
-        "title": "Define Kid",
-        "description": "Enter the name for each kid.",
+        "title": "Definiere Kind",
+        "description": "Geben Sie den Namen für jedes Kind ein.",
         "data": {
-          "kid_name": "Kid Name",
-          "internal_id": "Internal ID",
-          "ha_user": "Home Assistant User",
-          "enable_mobile_notifications": "Enable Mobile Notifications",
-          "mobile_notify_service": "Notify Service",
-          "enable_persistent_notifications": "Enable Persistent Notifications"
+          "kid_name": "Name des Kindes",
+          "internal_id": "Interne ID",
+          "ha_user": "Home Assistant Benutzer",
+          "enable_mobile_notifications": "Mobile Benachrichtigungen aktivieren",
+          "mobile_notify_service": "Benachrichtigungsdienst",
+          "enable_persistent_notifications": "Dauerhafte Benachrichtigungen aktivieren"
         }
       },
       "parent_count": {
-        "title": "Number of Parents",
-        "description": "How many parents do you want to define initially?",
+        "title": "Anzahl Eltern",
+        "description": "Wie viele Eltern wollen Sie anfangs definieren?",
         "data": {
-          "parent_count": "Number of Parents"
+          "parent_count": "Anzahl Eltern"
         }
       },
       "parents": {
-        "title": "Define Parent",
-        "description": "Enter details for each parent.",
+        "title": "Elternteil definieren",
+        "description": "Geben Sie Details für jedes Elternteil ein.",
         "data": {
           "parent_name": "Parent Name",
           "ha_user_id": "Home Assistant User",
@@ -255,10 +255,10 @@
         }
       },
       "manage_points": {
-        "title": "Edit Points Label & Icon",
-        "description": "Change the label and icon used to represent points.",
+        "title": "BEarbeite Punkte & Symbol",
+        "description": "Change the  and icon used to represent points.",
         "data": {
-          "points_label": "Points Label",
+          "points_label": "Punkte Bezeichnung",
           "points_icon": "Points Icon"
         }
       },
