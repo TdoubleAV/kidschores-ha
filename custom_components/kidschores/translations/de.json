@@ -3,7 +3,7 @@
   "config": {
     "step": {
       "intro": {
-        "title": "Welcome to KidsChores",
+        "title": "Wilkommen bei KidsChores",
         "description": "This wizard will guide you through setting up KidsChores."
       },
       "points_label": {
